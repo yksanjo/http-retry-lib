@@ -1,5 +1,12 @@
 # http-retry-lib
 
+Production-grade project scaffold focused on reliability, maintainability, and fast onboarding.
+
+[![CI](https://img.shields.io/github/actions/workflow/status/yksanjo/http-retry-lib/ci.yml?branch=main&label=ci)](https://github.com/yksanjo/http-retry-lib/actions)
+![License](https://img.shields.io/github/license/yksanjo/http-retry-lib)
+![Last Commit](https://img.shields.io/github/last-commit/yksanjo/http-retry-lib)
+![Repo Size](https://img.shields.io/github/repo-size/yksanjo/http-retry-lib)
+
 ## Detailed Description
 
 http-retry-lib is maintained as an industry-grade software project with production-ready engineering practices.  
